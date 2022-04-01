@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="margin.css"/>
+</head>
+<body>
+    <h2> Margins</h2>
+<div>margin shrthand propety </div>
+</body>
+</html>
